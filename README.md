@@ -2,7 +2,9 @@
 These files include a pdf version of a PowerPoint presentation and 8 Python programs (7 in Jupyter Notebood and one in simple Python script).
 They are completed assignments in fulfilling EdX/IBM course DS0720EN -- Data Science and Machine Learning Capstone Project.
 
-The name of the presentation is: IBM_EDX_ML_Capstone_Presentation_AFS_20260104.pdf
+The name of the presentation is: 
+
+IBM_EDX_ML_Capstone_Presentation_AFS_20260104.pdf
 
 The Python programs are:
 
